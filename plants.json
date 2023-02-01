@@ -1,34 +1,56 @@
 [
   {
     "name": "小麦",
-    "color": "yellow",
+    "color": "#FFFF00",
     "locations": [
       {
         "coordinates": [
-          6514,
+          6515,
           13580
         ],
-        "amount": 226
+        "amount": -1
       },
       {
         "coordinates": [
-          7800,
-          9133
+          7345,
+          9335
         ],
-        "amount": 34
-      }
-    ]
-  },
-  {
-    "name": "草莓",
-    "color": "magenta",
-    "locations": [
+        "amount": -1
+      },
       {
         "coordinates": [
-          7386,
-          8803
+          7305,
+          7915
         ],
-        "amount": 144
+        "amount": -1
+      },
+      {
+        "coordinates": [
+          7462,
+          7800
+        ],
+        "amount": -1
+      },
+      {
+        "coordinates": [
+          12334,
+          10664
+        ],
+        "amount": -1
+      },
+      {
+        "coordinates": [
+          13158,
+          12047
+        ],
+        "amount": -1
+      },
+      {
+        "coordinates": [
+          14569,
+          9975
+        ],
+        "amount": -1
       }
     ]
   }
