@@ -1,0 +1,22 @@
+[
+  {
+    "name": "小麦",
+    "color": "yellow",
+    "locations": [
+      {
+        "coordinates": [
+          6514,
+          13580
+        ],
+        "amount": 226
+      },
+      {
+        "coordinates": [
+          7800,
+          9133
+        ],
+        "amount": 34
+      }
+    ]
+  }
+]
