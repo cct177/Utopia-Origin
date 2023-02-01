@@ -33,13 +33,6 @@
       },
       {
         "coordinates": [
-          12334,
-          10664
-        ],
-        "amount": -1
-      },
-      {
-        "coordinates": [
           13158,
           12047
         ],
@@ -51,6 +44,110 @@
           9975
         ],
         "amount": -1
+      },
+      {
+        "coordinates": [
+          7800,
+          9133
+        ],
+        "amount": -1
+      }
+    ]
+  },
+  {
+    "name": "纳坦蓝晶",
+    "color": "#0096FF",
+    "locations": [
+      {
+        "coordinates": [
+          4487,
+          8821
+        ],
+        "amount": 1
+      },
+      {
+        "coordinates": [
+          4576,
+          8713
+        ],
+        "amount": 1
+      },
+      {
+        "coordinates": [
+          4826,
+          8892
+        ],
+        "amount": 1
+      },
+      {
+        "coordinates": [
+          4672,
+          9145
+        ],
+        "amount": 1
+      },
+      {
+        "coordinates": [
+          4433,
+          9153
+        ],
+        "amount": 1
+      },
+      {
+        "coordinates": [
+          4537,
+          9074
+        ],
+        "amount": 1
+      },
+      {
+        "coordinates": [
+          4174,
+          9063
+        ],
+        "amount": 1
+      },
+      {
+        "coordinates": [
+          4299,
+          8825
+        ],
+        "amount": 1
+      },
+      {
+        "coordinates": [
+          4733,
+          8866
+        ],
+        "amount": 1
+      },
+      {
+        "coordinates": [
+          4809,
+          9017
+        ],
+        "amount": 1
+      },
+      {
+        "coordinates": [
+          4675,
+          9277
+        ],
+        "amount": 1
+      },
+      {
+        "coordinates": [
+          4627,
+          9335
+        ],
+        "amount": 1
+      },
+      {
+        "coordinates": [
+          4422,
+          9289
+        ],
+        "amount": 1
       }
     ]
   }
