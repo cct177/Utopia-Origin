@@ -287,4 +287,15 @@
                 "coordinates": [9713, 13955],
                 "amount": 34
             }]
+    }, {
+        "name": "黑曜石",
+        "color": "#4C4C4C",
+        "type": "ore",
+        "locations": [{
+                "coordinates": [8268, 15065],
+                "amount": 116
+            }, {
+                "coordinates": [9721, 14466],
+                "amount": 132
+            }]
     }]
