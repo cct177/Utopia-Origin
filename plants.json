@@ -123,6 +123,9 @@
             }, {
                 "coordinates": [8331, 13216],
                 "amount": 431
+            }, {
+                "coordinates": [6557, 15428],
+                "amount": 52
             }]
     }, {
         "name": "姜",
@@ -244,6 +247,31 @@
                 "amount": 48
             }]
     }, {
+        "name": "黄豆",
+        "color": "#DAA764",
+        "type": "plant",
+        "locations": [{
+                "coordinates": [6802, 13351],
+                "amount": 39
+            }, {
+                "coordinates": [7047, 13577],
+                "amount": 51
+            }, {
+                "coordinates": [6920, 15007],
+                "amount": 37
+            }]
+    }, {
+        "name": "蓝莓",
+        "color": "#525494",
+        "type": "plant",
+        "locations": [{
+                "coordinates": [7048, 14018],
+                "amount": 42
+            }, {
+                "coordinates": [6644, 14306],
+                "amount": 42
+            }]
+    }, {
         "name": "红色小花",
         "color": "#FF0000",
         "type": "flower",
@@ -297,5 +325,21 @@
             }, {
                 "coordinates": [9721, 14466],
                 "amount": 132
+            }]
+    }, {
+        "name": "铁矿石",
+        "color": "#AAAAAA",
+        "type": "ore",
+        "locations": [{
+                "coordinates": [6312, 14165],
+                "amount": 252
+            }]
+    }, {
+        "name": "银矿石",
+        "color": "#DDDDDD",
+        "type": "ore",
+        "locations": [{
+                "coordinates": [8862, 10871],
+                "amount": 232
             }]
     }]
